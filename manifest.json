@@ -1,0 +1,11 @@
+{
+    "name": "Upcoming events in Stockholm",
+    "version": "1.00",
+    "description": "This is an extension to look up concert events coming to Stockholm",
+    "manifest_version": 3,
+    "author": "David Nartey",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Upcoming events in Stockholm"
+    }
+}
